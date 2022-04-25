@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>916771383052-8bft0p2na1844orvt20jf0aj3h3iqa00.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.916771383052-8bft0p2na1844orvt20jf0aj3h3iqa00</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzrKZEtBlwsVOYSQ-zNWzsfSBgRrL4u1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>916771383052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ope.-08recipeapp</string>
+	<key>PROJECT_ID</key>
+	<string>tastie-47cfd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tastie-47cfd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:916771383052:ios:d7a34173e299a7bd674b29</string>
+</dict>
+</plist>

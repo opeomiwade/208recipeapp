@@ -1,0 +1,6 @@
+framework module Pods_208recipeapp_208recipeappUITests {
+  umbrella header "Pods-208recipeapp-208recipeappUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

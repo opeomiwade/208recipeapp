@@ -1,0 +1,203 @@
+{
+  "recipes" : [
+
+    {
+      "name" : "Crock Pot Roast",
+      "Ingredients" : "beef roast,dried Italian salad dressing mix,dry ranch dressing mix,water",
+      "Instructions" : "Place one beef roast in crock pot.Mix the dried mixes together in a bowl and sprinkle over the roast.Pour the water around the roast.Cook on low for 7-9 hours.",
+      "Origin" : "America",
+      "Variation" : "Non-veggie",
+      "Calories" : "196",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/crock+pot+roast.jpeg"
+    },
+    {
+      "name" : "Chicken pot pie",
+      "Ingredients" : "diced peeled potatoes,sliced carrots,butter,chopped onion,all-purpose flour,salt,dried thyme,teaspoon pepper,chicken broth,whole milk,cooked chicken, frozen peas,frozen corn,pie crust",
+      "Instructions" : "Preheat oven to 425°.Place potatoes and carrots in a large saucepan; add water to cover.Bring to a boil. Reduce heat; cook, covered, 8-10 minutes or until crisp-tender; drain.In a large skillet, heat butter over medium-high heatAdd onion; cook and stir until tender.Stir in flour and seasonings until blended. Gradually stir in broth and milk.Bring to a boil, stirring constantly; cook and stir 2 minutes or until thickened.Stir in chicken, peas, corn and potato-carrot mixture; remove from heat.Unroll a pie crust into each of two 9-in.pie plates; trim crusts even with rims of plates.Add chicken mixture. Unroll remaining crusts; place over filling.Trim, seal and flute edges. Cut slits in tops.Bake 35-40 minutes or until crust is lightly browned. Let stand 15 minutes before cutting.",
+       "Origin" : "Greece",
+       "Variation" : "Non-veggie",
+       "Calories" : "198",
+       "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/Chicken+Pot+Pie.jpeg"
+    },
+
+    {
+        "name": "Veggie Pot Pie",
+        "Ingredients": "white beans,frozen vegetables,mushrooms,,celery,pie crust,balsamic vinegar,butter,almond milk",
+        "Instructions": "Melt the butter in a Dutch oven on the stove.Add the mushrooms, celery, and spices, cooking until browned and softened.Sprinkle flour over the vegetables, and cook until it disappears.Stir in the almond milk and simmer until thickened.Stir in the beans, remaining vegetables, thyme, and balsamic vinegar.Roll and place the pie dough on top of the dish, using an eggwash to seal it and brush the top.Cut a few slits to let steam escape.Bake the vegetarian pot pit at 425 degrees F for 20 to 25 minutes, until hot and bubbly.",
+        "Origin": "America",
+        "Variation": "veggie",
+        "Calories": "130",
+        "ImageUrl": "https://recipe-images123.s3.eu-west-2.amazonaws.com/veggie+pot+pie.jpg"
+    },
+
+    {
+        "name": "Greek beef and eggplant lasagna",
+        "Ingredients": "medium-sized potatoes,olive oil,red onion,lamb mince,garlic cloves,mixed spice,cartoon passata,aubergines,tub crème fraîche,grated cheddar",
+        "Instructions": "Boil the potatoes whole for 20 mins or just until tender. Drain and allow to cool.Return the pan to the heat and add 2 tbsp olive oil and the onion.Cook until softened, then add the lamb. Fry the mince for 5 mins or until cooked through and starting to char.Add the garlic and spice, and stir in the passata.Bring to a simmer, then season to taste, take off the heat and set aside until needed.Heat oven to 220C/200C fan/gas 7. Warm a griddle pan over a high heat and brush a little oil over the aubergines.Grill for 2-3 mins each side or until char lines appear. You may have to do this in 3-4 batches.Once cool enough to handle, cut the boiled potatoes into thick slices.Put 1 tbsp oil in the base of a deep ovenproof dish and start with a layer of potatoes, then aubergines, a sprinkling of seasoning, then a layer of the lamb mixture.Repeat until all the mixture is used up, ending with a layer of aubergines.Spread the crème fraîche over the top and scatter with the cheese.Put in the oven for 10 mins or until the cheese is golden.",
+        "Origin": "Greece",
+        "Variation": "Non-veggie",
+        "Calories": "820",
+        "ImageUrl": "https://recipe-images123.s3.eu-west-2.amazonaws.com/Greek+beef+and+Eggplant+lasagna.jpeg"
+    },
+
+    {
+        "name": "efo riro",
+        "Ingredients": "spinach,bell peppers,scothc bonnet,palm oil,red onions,stockfish,assorted meats,chicken cubes",
+        "Instructions": "Wash your vegetables thoroughly with hot water to rid it of all traces of dirt, be careful not to in soak in hot water for too long so as to retain the nutrients.Slice or chop according to your preference and set aside.Blend the scotch bonnets and bell peppers and an onion coarsely and set aside Into a large pot, add the palm oil, leave to heat up on medium heat for 2 minutesthen add onions and fry till fragant.Then add the locust beans, fry to release the flavour for another minute.Now add the blended pepper and two Knorr cubes, let that fry for 15-20 minutes thereabouts or until the pepper dries out and the size reduces by almost half.Add a bit of the meat stock/ chicken stock, if you haven’t got stock, just add water, be careful not to add too much. Just one cup should do.Let it boil for 2-3 minutes to combine, then add the assorted meats and stockfishNow add the washed vegetables, combine thoroughly.",
+        "Origin": "Nigeria",
+        "Variation": "Non-veggie",
+        "Calories": "183",
+        "ImageUrl": "https://recipe-images123.s3.eu-west-2.amazonaws.com/efo+riro.jpg"
+    },
+
+    {
+     "name" : "Veggie Efo riro",
+     "Ingredients" : "spinach,bell peppers,scothc bonnet,palm oil,red onions,bullion cubes",
+     "Instructions" : "Wash your vegetables thoroughly with hot water to rid it of all traces of dirt, be careful not to in soak in hot water for too long so as to retain the nutrients.Slice or chop according to your preference and set aside.Blend the scotch bonnets and bell peppers and an onion coarsely and set aside Into a large pot, add the palm oil, leave to heat up on medium heat for 2 minutesthen add onions and fry till fragant.Then add the locust beans, fry to release the flavour for another minute.Now add the blended pepper and two bullion cubes, let that fry for 15-20 minutes thereabouts or until the pepper dries out and the size reduces by almost half.Add a bit of the meat stock/ chicken stock, if you haven’t got stock, just add water, be careful not to add too much. Just one cup should do.Let it boil for 2-3 minutes.Now add the washed vegetables, combine thoroughly.",
+     "Origin" : "Nigeria",
+     "Variation" : "veggie",
+     "Calories" : "170",
+     "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/efo+riro.jpg"
+   },
+
+   {
+     "name" : "Foccacia",
+     "Ingredients" : " fresh bread flour,fried action yeast,fine sea salt,olive oil,rosemary,flay sea salt",
+     "Instructions" : "Tip the flour into a large mixing bowl. Mix the yeast into one side of the flour, and the fine salt into the other side.Then mix everything together, this initial seperation prevents the salt from killing the yeast.Make a well in the middle of the flour and add 2 tbsp oil and 350-400ml lukewarm water, adding it gradually until you have a slightly sticky dough (you may not need all the water).Sprinkle the work surface with flour and tip the dough onto it, scraping around the sides of the bowl. Knead for 5-10 mins until your dough is soft and less sticky.Put the dough into a clean bowl, cover with a tea towel and leave to prove for 1 hr until doubled in size.Oil a rectangle, shallow tin (25 x 35cm). Tip the dough onto the work surface, then stretch it to fill the tin.Cover with a tea towel and leave to prove for another 35-45 min.Heat the oven to 220C/200C fan/gas 7.Press your fingers into the dough to make dimples. Mix together 1½ tbsp olive oil, 1 tbsp water and the flaky salt and drizzle over the bread.Push sprigs of rosemary into the dimples in the dough.Bake for 20 mins until golden. Whilst the bread is still hot, drizzle over 1-2 tbsp olive oil.Cut into squares and serve warm or cold with extra olive oil, if you like.",
+     "Origin" : "Italy",
+     "Variation" : "desert",
+     "Calories" : "250",
+     "ImageUrl" :"https://recipe-images123.s3.eu-west-2.amazonaws.com/foccacia.jpg"
+   },
+   {
+     "name" : "Italian stuffed chicken",
+     "Ingredients" : "chopped olives or sundried tomatoes,garlic cloves,dried mixed herbs,full fat soft cheese,boneless chicken,ripe tomatoes,olive oil ",
+     "Instructions" : "Heat oven to 220C/fan 200C/gas 7. Beat the olives or sundried tomatoes, garlic and almost all the herbs into the cheese, then season.Cut a slit along the side of each chicken breast, then use your knife to open it out into a pocket.Stuff each breast with a quarter of the cheese mix, then press to close.Lift onto a greased baking tray.Season the top of the chicken, then overlap tomato slices over the top of each piece of chicken.Season, then scatter with the remaining herbs. Drizzle with olive oil.Roast for 20 mins until the chicken is golden around the edges and the tomatoes look a little shrivelled.Serve with a green salad and crusty bread to mop up the juices.",
+     "Origin" : "Italy",
+     "Variation" : "Non-veggie",
+     "Calories" : "275",
+     "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/Italian+Stuffed+Chicken.jpg"
+   },
+
+   {
+     "name" : "Cranberry and Apple Stuffed Acorn Squash",
+     "Ingredients" : "acorn squash,chopped apples,cinamon,dried cranberries,melted butter",
+     "Instructions" : "Cut squash in half, remove seeds.Place squash in baking dish, cut-side down.Pour 1/4-inch water into dish.Bake for 30 minutes at 350 degrees F.In large bowl, combine remaining ingredients.Remove squash from oven, fill with mixBake for 30-40 more minutes, until squash tender.",
+    "Origin" : "America",
+    "Variation" : "desert",
+    "Calories" : "291",
+    "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/Cranberry+and+Apple+Stuffed+Acorn+Squash.jpg"
+  },
+   
+  {
+    "name" : "Oatmeal Cookies",
+    "Ingredients" : "raisins,flower,baking soda,baking powder,cinamon,salt,sugar,oats,chopped nuts",
+    "Instructions" :  "Simmer raisins and water over medium heat until raisins are plump, about 15 minutes.Drain raisins, reserving the liquid.Add enough water to reserved liquid to measure 1/2 cup.Heat oven to 400°.Mix thoroughly shortening, sugar, eggs and vanilla.Stir in reserved liquid.Blend in remaining ingredients.Drop dough by rounded teaspoonfuls about 2 inches apart onto ungreased baking sheet.Bake 8 to 10 minutes or until light brown.",
+    "Origin" : "America",
+    "Variation" : "desert",
+    "Calories" : "112",
+    "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/oatmeal+cookies.jpeg"
+  },
+  
+  {
+      "name" : "Greek stuffed peppers",
+      "Ingredients" : "tomato, pepper, onion, rice, mint leaves, parsley, garlic, salt, sugar, Butter, vegetables of your choice",
+      "Instructions" : "Slice off the top of the tomatoes. Using a spoon remove the flesh of the tomatoes and keep it in a bowl. (The flesh of the tomatoes will be the base for the tomato sauce for the Gemista.).Slice off the top of the peppers and remove the seeds and white parts from the inside.Season the empty vegetables with a pinch of salt and sugar and add a little butter on the bottom of each one.In a blender add the flesh of the tomatoes, 5-6 tbsps olive oil, the tomato paste, sugar, season with salt and pepper and mix to combine.In a saucepan add some olive oil and sauté the onions, until translucent. Chop the zucchini in small cubes, add in the saucepan and sauté for one more minute. At the end add the flesh of the eggplants (chopped) and the chopped garlic and sauté, until softened. Add the rice and continue sautéing, unit it becomes transculent. Pour in 1 tin chopped tomatoes, 2 cups of water and season with salt and pepper. Let the filling come to a boil.Filing will be ready after 5 minutes to be put in the Peppers.Cover the Gemista with aluminium foil and bake in preheated oven at 180C / 350F for 60-75 minutes.",
+      "Origin" : "Greece",
+      "Variation" : "veggie",
+      "Calories" : "126",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/gemista.jpg"
+  },
+  
+  {
+      "name" : "Fried santorini tomato balls(tomatokeftedes)",
+      "Ingredients" : "tomato, feta, onion, parsley, mint, oregano, flour, baking powder",
+      "Instructions" : "Cut the tomatoes into 4 pieces, and with a spoon remove the flesh. Chop the flesh of the tomatoes, into small cubes and place in a colander with some salt. Leave them for 30 minutes.Into a bowl, combine the chopped tomatoes, the onions and mix with a spoon; add the herbs, and the feta cheese, smashed with a fork. In a separate bowl, mix the flour with the baking powder.Add the four mixture to the tomato mixture, whilst stirring with a spoon, until the ingredients are combined and the mixture is firm enough to make the balls. Add a little more flour if needed. Put in the fridge for 30 minutes.In a pan add enough olive oil to cover the bottom of the pan, and heat the oil into medium-high heat. Dip a tablespoon in some water and spoon out some of the mixture into the hot oil. Repeat this procedure until the surface off the pan is comfortably filled. You should dip the spoon in the water every time, so that the dough doesn’t stick on it. Fry the tomatokeftedes for about 2-3 minutes on each side, until nicely colored. Place them on paper towel, to absorb the extra olive oil.",
+      "Origin" : "Greece",
+      "Variation" : "veggie",
+      "Calories" : "125",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/fried+tomato+balls.jpeg"
+  },
+  
+  {
+      "name" : "Tacos",
+      "Ingredients" : "tortilla wrap, beef, chicken, cod, shrimps, Oil, garlic",
+      "Instructions" : "Peel and dice the onion, then deseed and dice the peppers. Soften in 1 tablespoon of oil in a large pan over a low heat.Peel, finely slice and add the garlic, along with the paprika and cumin, and cook for 1 to 2 minutes. Add the beef and stir until it has browned.Pour in the stock, cover, and cook for 45 minutes, or until reduced and delicious.Preheat the oven to 180ºC/350ºF/gas 4.For the salsa, roughly chop the tomatoes, trim and finely slice the spring onion, then pick and roughly chop the coriander leaves. Combine with the lime juice, then season carefully to taste.For the guacamole, halve and destone the avocados, then mash the flesh with a fork. Squeeze in the lime juice, add the crème fraîche, season, and gently mix it all up.Spread the taco shells out on a baking tray and place in the oven for 3 to 4 minutes until crisp.Fill the shells with the meat, salsa and guacamole or lay everything out and let everyone help themselves.",
+      "Origin" : "Mexico",
+      "Variation" : "Non-veggie",
+      "Calories" : "447",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/taco.jpeg"
+  },
+  
+  {
+      "name" : "Veggie tacos",
+      "Ingredients" : "baby corn, red onion, red pepper, cumin seed, olive oil, kiwi,tomato, flower, vegan bullion powder, garlic clove, paprika ",
+      "Instructions" : "Heat oven to 220C/200C fan/gas 7. Pile the corn, red onion and pepper into a large shallow roasting tin and toss with the cumin seeds and oil. Add the kiwi and tomato on one side of the tin and roast for 20 mins.Meanwhile, mix 60ml water into the flour with the blade of a knife to make a dough. Knead briefly until smooth, then cut equally into four and roll out each piece on a lightly floured surface into a 16cm round tortilla. Cover with a tea towel to stop them drying out.Remove the cooked tomato and kiwi from the tin and return the veg to the oven for 10 mins. Remove the skin from the kiwi and scoop the flesh into a bowl with the tomato, garlic, half the coriander, bouillon and paprika. Use a hand blender to blitz to a smooth salsa.Heat a large non-stick frying pan, without oil, and cook the tortillas one at a time for a minute on one side and about 10 seconds on the other, until you see them puff up a little. Spread a tortilla with some salsa, top with cabbage and roasted veg, then scatter with the remaining coriander. Add a spoonful more salsa and eat with your hands.",
+      "Origin" : "Mexico",
+      "Variation" : "veggie",
+      "Calories" : "351",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/vegan+taco.jpeg"
+  },
+  
+  {
+      "name" : "Cocadas",
+      "Ingredients" : "coconut,eggs,condensed milk",
+      "Instructions" : "Open a 14 ounce bag of shredded coconut and dump into a bowl.Open a 13.4 ounce can of dulce de leche and pour into the same bowl.Chop a 2 oz package of macadamia nuts and dump into the same bowl.Using a study wooden spoon, stir the ingredients together until they are well mixed.Using a cookie scoop (or 2 TBSP at a time), form about 24 balls and place 1″ apart on a parchment paper lined baking sheet. Bake in a preheated 350 F oven for 15 minutes. Then cool on a wire rack and enjoy!",
+      "Origin" : "Mexico",
+      "Variation" : "desert",
+      "Calories" : "190",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/cocada.jpeg"
+  },
+  
+  {
+      "name" : "Nachos",
+      "Ingredients" : "tortilla chips, jar of salsa, spring onions, cheese, chilli flakes, guacamole",
+      "Instructions" : "Tip tortilla chips on to a baking tray, pour over salsa and scatter over a few sliced spring onions.Grate over a good chunk of cheese (fontina is perfect, but cheddar will do). Add a pinch of crushed chilli flakes, then put under a hot grill for about 3 minutes to melt the cheese. Serve with soured cream or guacamole (optional).",
+      "Origin" : "Mexico",
+      "Variation" : "Non-veggie",
+      "Calories" : "483",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/nacho.jpeg"
+  },
+  
+  {
+      "name" : "Curried Lentils and Rice",
+      "Ingredients" : "rice, beef broth, lentils, curry powder, salt",
+      "Instructions" : "Bring broth to a low boil.Add curry powder and salt.,Cook lentils for 20 minutes.,Add rice and simmer for 20 minutes.,Enjoy!",
+      "Origin" : " Asia",
+      "Variation" : "Non-veggie",
+      "Calories" : "200",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/lentil+and+rice.jpeg"
+  },
+  
+  {
+      "name" : "Jollof rice",
+      "Ingredients" : "tomatoes, bell pepper, onions, rice, tomato puree, chicken knorr cubes, chicken stock, all purpose seasoning, thyme",
+      "Instructions" : "Blend your tomatoes, red pepper, scotch bonnet peppers in a food processor or blender for about 45 seconds, make sure that everything is blended well.In a medium sized pot, heat your oil on medium-high heat. Once the oil is heated add the onions you set aside and fry just until they turn golden brown. Once the onions, have turned brown in color add the tomato paste and fry for 2-3 minutes. Then add the blended tomato mixture (reserve about 1/4 cup and set aside) and fry the mixture with the onions and tomato paste for about 30 minutes. Make sure you stir consistently so that the tomato mixture does not burn.After 30 minutes, turn the heat down to medium, and add the chicken stock. Mix and add your seasonings (salt, curry powder, thyme, all purpose seasoning, and the Knorr stock cube). Continue to boil for 10 minutes.Add the parboiled rice to the pot. Mix it very well with the tomato stew. At this point if you need to add water so that the rice is level with the tomato mixture/chicken stock go ahead and do so. Add the bay leaves, cover the pot, and cook on medium to low heat for 15-30 minutes.When the liquid has almost dried up add the remaining tomato stew, cover, and let it cook for another 5-10 minutes heat until the liquid has completely dried up. Turn off the heat, mix thoroughly, and your Jollof Rice is ready to be eaten!",
+      "Origin" : "Nigeria",
+      "Variation" : "Non-veggie",
+      "Calories" : "400",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/jollog.jpeg"
+  },
+  
+  {
+      "name" : "Suya(Spicy beef)",
+      "Ingredients" : "beef, onion powder, ground ginger, chilli flakes,garlic powder, onion, canola oil, peanuts",
+      "Instructions" : "Place peanuts in a food processor; process until finely chopped. Add paprika, onion powder, ginger, pepper flakes and garlic powder; pulse until combined.Place beef in a large bowl or shallow dish. Drizzle with oil; sprinkle with salt. Toss to coat. Add peanut mixture; turn to coat. Refrigerate, covered, for 2 hours. Drain beef, discarding marinade.Thread beef onto metal or soaked wooden skewers. Grill, covered, over medium-high heat until beef reaches desired doneness, 10-15 minutes, turning occasionally. Serve with onion, tomato and cilantro.",
+      "Origin": "Nigeria",
+      "Variation" : "Non-veggie",
+      "Calories" : "200",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/suya.jpeg"
+  },
+  
+  {
+      "name" : "Curried chicken salad",
+      "Ingredients" : "mayo, lemon juice, ripe mangoes, green onions, curry powder, salt, celery stalk, english muffins",
+      "Instructions" : "Arrange chicken in a single layer in a large pot.,Add water to just cover.,Bring to a boil over medium-high.,Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.,Cool.,STIR mayo with lemon zest, juice, curry and salt in large bowl.,Using 2 forks, shred chicken, then stir into mayo mixture with mango, cranberries, green onions and celery.,Divide among muffins with lettuce leaves,Sandwich with tops",
+      "Origin" : "America",
+      "Variation" : "Non-veggie",
+      "Calories" : "150",
+      "ImageUrl" : "https://recipe-images123.s3.eu-west-2.amazonaws.com/curried+chciken+salad.jpeg"
+  }
+  ]
+}
+
